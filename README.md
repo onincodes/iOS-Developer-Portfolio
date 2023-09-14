@@ -4,7 +4,7 @@ This is a personal project of mine that made me fall in love with coding. It all
 
 As a typical employee in the Philippines, I often commute to work, and there have been times when I missed my stop on the way home because I fell asleep on the bus due to work fatigue. I know I'm not the only one facing this issue.
 
-So I built this App for my fellow commuters.
+So I designed and built this app for my fellow commuters.
 
 Main Features:
 
