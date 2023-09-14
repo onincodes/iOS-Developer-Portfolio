@@ -1,6 +1,10 @@
 <img src="https://i.imgur.com/yYF3oys.png" alt="Alt Text">
 
-# Shifter App - A Commuter's Friend
+<div align="center"> I'm a Graphic Designer/UX Designer who fell in love with coding and am now a self-taught iOS Developer. I ♥️ SwiftUI. </div>
+
+---
+
+## Shifter App - A Commuter's Friend
 
 This is a personal project of mine that made me fall in love with coding. It all started with an idea based on a real-life experience.
 
