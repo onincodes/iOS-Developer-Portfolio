@@ -14,3 +14,15 @@ Main Features:
 
 ---
 <img src="https://i.imgur.com/BFfkz1J.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/H3OAQ6L.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/YFW9Mb6.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/io0Skfn.png" alt="Alt Text" height="350">
+***
+
+### Tech Used:
+
+* 🎨 SwiftUI
+* 🖌️ UIKit
+* 🗺️ MapKit
+* 🔔 Push Notifications
+* 🗂️ Firebase
+* 💰 Google AdMobs
+* 📦 Swift Package Manager
+
