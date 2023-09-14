@@ -23,7 +23,7 @@ Main Features:
 * 🎨 SwiftUI
 * 🖌️ UIKit
 * 🗺️ MapKit
-* 🔔 Push Notifications
+* 🔔 Local Notifications
 * 🗂️ Firebase
 * 💰 Google AdMobs
 * 📦 Swift Package Manager
