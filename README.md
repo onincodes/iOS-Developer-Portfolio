@@ -27,4 +27,5 @@ Main Features:
 * 🗂️ Firebase
 * 💰 Google AdMobs
 * 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
 
