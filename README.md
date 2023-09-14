@@ -12,7 +12,7 @@ Main Features:
 
 ⏰ Set a 5-Minute Alarm Before Your ETA: With Shifter App, it automatically sets a 5-minute alarm before your ETA, ensuring you never miss your destination again, even when traffic is unpredictable. Relax, read, or catch up on emails - we'll alert you in time!
 
-[![App Store](https://i.imgur.com/HeVBU6h.png)](https://apps.apple.com/app/id6462993220) 
+[![App Store](https://i.imgur.com/VFYkUAx.png)](https://apps.apple.com/app/id6462993220) 
 
 ---
 <img src="https://i.imgur.com/BFfkz1J.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/H3OAQ6L.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/YFW9Mb6.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/io0Skfn.png" alt="Alt Text" height="350">
