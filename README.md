@@ -11,3 +11,6 @@ Main Features:
 📍 Easy to Use & Accurate ETAs: Get real-time updates on arrival times with just a few taps, so you, as a commuter, always know when to expect your destination. Plus, our app's ETA and alarm schedule adjust seamlessly with traffic conditions.
 
 ⏰ Set a 5-Minute Alarm Before Your ETA: With Shifter App, it automatically sets a 5-minute alarm before your ETA, ensuring you never miss your destination again, even when traffic is unpredictable. Relax, read, or catch up on emails - we'll alert you in time!
+
+---
+<img src="https://i.imgur.com/BFfkz1J.png" alt="Alt Text" height="400"> <img src="https://i.imgur.com/H3OAQ6L.png" alt="Alt Text" height="400"> <img src="https://i.imgur.com/YFW9Mb6.png" alt="Alt Text" height="400"> <img src="https://i.imgur.com/io0Skfn.png" alt="Alt Text" height="400">
