@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/yYF3oys.png" alt="Alt Text">
 
-<div align="center"> I'm a Graphic Designer/UX Designer who fell in love with coding and am now a self-taught iOS Developer. </div>
+<div align="center"> A creative professional who has developed an interest in coding, especially in iOS development. </div>
 <div align="center"> I ♥️ SwiftUI </div>
 
 ---
