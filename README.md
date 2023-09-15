@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/yYF3oys.png" alt="Alt Text">
+<img src="https://i.imgur.com/yYF3oys.png" alt="Onin Sibua">
 
 <div align="center"> A creative professional who has developed an interest in coding, especially in iOS development. </div>
 <div align="center"> I ♥️ SwiftUI </div>
