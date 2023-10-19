@@ -33,7 +33,6 @@ Main Features:
 ### Tech Used:
 
 * 🎨 SwiftUI
-* 🖌️ UIKit
 * 🗺️ MapKit
 * 🔔 Local Notifications
 * 🗂️ Firebase
@@ -41,3 +40,35 @@ Main Features:
 * 📦 Swift Package Manager
 * 🏗️ MVVM (Model-View-ViewModel)
 
+---
+
+## XO App: For Tic-Tac-Toe Legends
+
+XO App is a fast-paced variation of the traditional Tic-Tac-Toe game, offering a thrilling twist on a classic pastime. 
+The challenge is to win as many rounds as possible against the computer within a 60-second time limit.
+
+🕹️ Game Goal:
+
+* Beat the AI in a race against the clock.
+* Compete with players worldwide and make it to the top of the global leaderboard.
+* Enjoy seamless gameplay with an intuitive user interface.
+
+Can you win the race against the AI?
+
+[![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/xo-for-tic-tac-toe-legends/id6469413774) 
+
+---
+<div align="center">
+  <img src="https://i.imgur.com/1k41dHg.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/EuQ6OSG.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/8fyc8gI.jpg" alt="Alt Text" height="350">
+</div>
+
+***
+
+### Tech Used:
+
+* 🎨 SwiftUI
+* 🗂️ Firebase
+* 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
