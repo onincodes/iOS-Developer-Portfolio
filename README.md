@@ -22,7 +22,12 @@ Main Features:
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/app/id6462993220) 
 
 ---
-<img src="https://i.imgur.com/H3OAQ6L.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/YFW9Mb6.png" alt="Alt Text" height="350"> <img src="https://i.imgur.com/io0Skfn.png" alt="Alt Text" height="350">
+<div align="center">
+  <img src="https://i.imgur.com/H3OAQ6L.png" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/YFW9Mb6.png" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/io0Skfn.png" alt="Alt Text" height="350">
+</div>
+
 ***
 
 ### Tech Used:
