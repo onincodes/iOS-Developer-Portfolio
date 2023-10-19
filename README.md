@@ -59,9 +59,9 @@ Can you win the race against the AI?
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/1k41dHg.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/EuQ6OSG.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/8fyc8gI.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/r9kyRoa.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/wt8a9ld.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/HdbjIwf.jpg" alt="Alt Text" height="350">
 </div>
 
 ***
