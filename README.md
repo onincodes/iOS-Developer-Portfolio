@@ -5,7 +5,7 @@
 
 ---
 
-## Shifter App - A Commuter's Friend
+## 🗺️ Shifter App - A Commuter's Friend
 
 This is a personal project of mine that made me fall in love with coding. It all started with an idea based on a real-life experience.
 
@@ -42,7 +42,7 @@ Main Features:
 
 ---
 
-## XO App: For Tic-Tac-Toe Legends
+## 🕹️ XO App: For Tic-Tac-Toe Legends
 
 XO App is a fast-paced variation of the traditional Tic-Tac-Toe game, offering a thrilling twist on a classic pastime. 
 The challenge is to win as many rounds as possible against the computer within a 60-second time limit.
