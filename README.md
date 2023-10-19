@@ -47,11 +47,11 @@ Main Features:
 XO App is a fast-paced variation of the traditional Tic-Tac-Toe game, offering a thrilling twist on a classic pastime. 
 The challenge is to win as many rounds as possible against the computer within a 60-second time limit.
 
-🕹️ Game Goal:
+Game Goal:
 
-* Beat the AI in a race against the clock.
-* Compete with players worldwide and make it to the top of the global leaderboard.
-* Enjoy seamless gameplay with an intuitive user interface.
+* ⏱️ Beat the AI in a race against the clock.
+* 📈 Compete with players worldwide and make it to the top of the global leaderboard.
+* 😎 Enjoy seamless gameplay with an intuitive user interface.
 
 Can you win the race against the AI?
 
