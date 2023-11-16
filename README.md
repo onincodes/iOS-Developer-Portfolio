@@ -15,9 +15,9 @@ So I designed and built this app for my fellow commuters.
 
 Main Features:
 
-📍 Easy to Use & Accurate ETAs: Get real-time updates on arrival times with just a few taps, so you, as a commuter, always know when to expect your destination. Plus, our app's ETA and alarm schedule adjust seamlessly with traffic conditions.
+* 📍 Easy to Use & Accurate ETAs: Get real-time updates on arrival times with just a few taps, so you, as a commuter, always know when to expect your destination. Plus, our app's ETA and alarm schedule adjust seamlessly with traffic conditions.
 
-⏰ Set a 5-Minute Alarm Before Your ETA: With Shifter App, it automatically sets a 5-minute alarm before your ETA, ensuring you never miss your destination again, even when traffic is unpredictable. Relax, read, or catch up on emails - we'll alert you in time!
+* ⏰ Set a 5-Minute Alarm Before Your ETA: With Shifter App, it automatically sets a 5-minute alarm before your ETA, ensuring you never miss your destination again, even when traffic is unpredictable. Relax, read, or catch up on emails - we'll alert you in time!
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/app/id6462993220) 
 
@@ -32,13 +32,13 @@ Main Features:
 
 ### Tech Used:
 
-🎨 SwiftUI
-🗺️ MapKit
-🔔 Local Notifications
-🗂️ Firebase
-💰 Google AdMobs
-📦 Swift Package Manager
-🏗️ MVVM (Model-View-ViewModel)
+* 🎨 SwiftUI
+* 🗺️ MapKit
+* 🔔 Local Notifications
+* 🗂️ Firebase
+* 💰 Google AdMobs
+* 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
 
 ---
 
@@ -49,9 +49,9 @@ The challenge is to win as many rounds as possible against the computer within a
 
 Game Goal:
 
-⏱️ Beat the AI in a race against the clock.
-📈 Compete with players worldwide and make it to the top of the global leaderboard.
-😎 Enjoy seamless gameplay with an intuitive user interface.
+* ⏱️ Beat the AI in a race against the clock.
+* 📈 Compete with players worldwide and make it to the top of the global leaderboard.
+* 😎 Enjoy seamless gameplay with an intuitive user interface.
 
 Can you win the race against the AI?
 
@@ -68,10 +68,10 @@ Can you win the race against the AI?
 
 ### Tech Used:
 
-🎨 SwiftUI
-🗂️ Firebase
-📦 Swift Package Manager
-🏗️ MVVM (Model-View-ViewModel)
+* 🎨 SwiftUI
+* 🗂️ Firebase
+* 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
 
 ---
 
@@ -81,9 +81,9 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 Key Features:
 
-🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
-🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
-👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
+* 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
+* 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
+* 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
@@ -98,7 +98,7 @@ Key Features:
 
 ### Tech Used:
 
-🎨 SwiftUI
-🗂️ Firebase
-📦 Swift Package Manager
-🏗️ MVVM (Model-View-ViewModel)
+* 🎨 SwiftUI
+* 🗂️ Firebase
+* 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
