@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/GWhgmHz.png" alt="Onin Sibua">
 
-<div align="center"> A creative professional who has developed an interest in coding, now a self-taught iOS developer with a strong emphasis on SwiftUI. I ♥️ SwiftUI </div>
-
+<div align="center"> A creative professional who has developed an interest in coding, now a self-taught iOS developer with a strong emphasis on SwiftUI. </div>
+<div align="center"> </div>
+<div align="center"> I ♥️ SwiftUI </div>
 ---
 
 ## 🗺️ Shifter App - A Commuter's Friend
