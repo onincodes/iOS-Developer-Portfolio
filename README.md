@@ -32,13 +32,13 @@ Main Features:
 
 ### Tech Used:
 
-* 🎨 SwiftUI
-* 🗺️ MapKit
-* 🔔 Local Notifications
-* 🗂️ Firebase
-* 💰 Google AdMobs
-* 📦 Swift Package Manager
-* 🏗️ MVVM (Model-View-ViewModel)
+🎨 SwiftUI
+🗺️ MapKit
+🔔 Local Notifications
+🗂️ Firebase
+💰 Google AdMobs
+📦 Swift Package Manager
+🏗️ MVVM (Model-View-ViewModel)
 
 ---
 
@@ -49,9 +49,9 @@ The challenge is to win as many rounds as possible against the computer within a
 
 Game Goal:
 
-* ⏱️ Beat the AI in a race against the clock.
-* 📈 Compete with players worldwide and make it to the top of the global leaderboard.
-* 😎 Enjoy seamless gameplay with an intuitive user interface.
+⏱️ Beat the AI in a race against the clock.
+📈 Compete with players worldwide and make it to the top of the global leaderboard.
+😎 Enjoy seamless gameplay with an intuitive user interface.
 
 Can you win the race against the AI?
 
@@ -68,10 +68,10 @@ Can you win the race against the AI?
 
 ### Tech Used:
 
-* 🎨 SwiftUI
-* 🗂️ Firebase
-* 📦 Swift Package Manager
-* 🏗️ MVVM (Model-View-ViewModel)
+🎨 SwiftUI
+🗂️ Firebase
+📦 Swift Package Manager
+🏗️ MVVM (Model-View-ViewModel)
 
 ---
 
@@ -81,9 +81,9 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 Key Features:
 
-* 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
-* 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
-* 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
+🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
+🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
+👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
@@ -98,7 +98,7 @@ Key Features:
 
 ### Tech Used:
 
-* 🎨 SwiftUI
-* 🗂️ Firebase
-* 📦 Swift Package Manager
-* 🏗️ MVVM (Model-View-ViewModel)
+🎨 SwiftUI
+🗂️ Firebase
+📦 Swift Package Manager
+🏗️ MVVM (Model-View-ViewModel)
