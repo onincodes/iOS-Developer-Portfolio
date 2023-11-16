@@ -72,3 +72,35 @@ Can you win the race against the AI?
 * 🗂️ Firebase
 * 📦 Swift Package Manager
 * 🏗️ MVVM (Model-View-ViewModel)
+
+---
+
+## 🍲 Ulamo App - Pinoy Ulam Generator
+
+Struggling to decide what to cook for the meal of the day? Introducing the Ulamo App, a Pinoy Ulam Generator born out of my own kitchen dilemmas. This app simplifies your daily meals with a spin-based solution, taking the guesswork out of your hands.
+
+Key Features:
+
+* 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
+* 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
+* 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
+
+Can you win the race against the AI?
+
+[![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
+
+---
+<div align="center">
+  <img src="https://i.imgur.com/r9kyRoa.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/wt8a9ld.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/HdbjIwf.jpg" alt="Alt Text" height="350">
+</div>
+
+***
+
+### Tech Used:
+
+* 🎨 SwiftUI
+* 🗂️ Firebase
+* 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
