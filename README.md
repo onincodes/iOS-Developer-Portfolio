@@ -85,15 +85,13 @@ Key Features:
 * 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
 * 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
 
-Can you win the race against the AI?
-
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/r9kyRoa.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/wt8a9ld.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/HdbjIwf.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/Be2YPrk.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/idSQCDe.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/JHhBBqG.jpg" alt="Alt Text" height="350">
 </div>
 
 ***
