@@ -14,7 +14,7 @@ As a typical employee in the Philippines, I often commute to work, and there hav
 
 So I designed and built this app for my fellow commuters.
 
-Main Features:
+**Main Features:**
 
 * 📍 Easy to Use & Accurate ETAs: Get real-time updates on arrival times with just a few taps, so you, as a commuter, always know when to expect your destination. Plus, our app's ETA and alarm schedule adjust seamlessly with traffic conditions.
 
@@ -48,7 +48,7 @@ Main Features:
 XO App is a fast-paced variation of the traditional Tic-Tac-Toe game, offering a thrilling twist on a classic pastime. 
 The challenge is to win as many rounds as possible against the computer within a 60-second time limit.
 
-Game Goal:
+**Game Goal:**
 
 * ⏱️ Beat the AI in a race against the clock.
 * 📈 Compete with players worldwide and make it to the top of the global leaderboard.
@@ -80,7 +80,7 @@ Can you win the race against the AI?
 
 Struggling to decide what to cook for the meal of the day? Introducing the Ulamo App, a Pinoy Ulam Generator born out of my own kitchen dilemmas. This app simplifies your daily meals with a spin-based solution, taking the guesswork out of your hands.
 
-Key Features:
+**Key Features:**
 
 * 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
 * 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
@@ -110,11 +110,16 @@ Key Features:
 
 This SwiftUI animated button provides a visually appealing and interactive user interface element. It includes animation features for a smooth transition between different states, adding a dynamic touch to your app.
 
-Key Features:
+**Features:**
+- Engaging animations: The button incorporates animations to enhance user experience without sacrificing responsiveness.
+- Loading indicator: A built-in loading indicator provides visual feedback during asynchronous operations.
+- Customizable: Easily adapt the button's appearance to suit your app's design with customizable animation parameters.
+- Accessible: Designed with accessibility in mind, ensuring a seamless experience for all users.
 
-* 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
-* 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
-* 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
+**Usage:**
+1. Import the `AnimatedButton` module into your SwiftUI project.
+2. Create an instance of `AnimatedButton` with desired configuration options.
+3. Add the button to your view hierarchy and handle actions through the provided closure.
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
