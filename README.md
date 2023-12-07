@@ -120,7 +120,7 @@ This SwiftUI animated button provides a visually appealing and interactive user 
 2. Create an instance of `AnimatedButton` with desired configuration options.
 3. Add the button to your view hierarchy and handle actions through the provided closure.
 
-[![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
+### [💼 Animated Button Repo](https://github.com/Onin-iOS/AnimatedButton)
 
 ---
 
