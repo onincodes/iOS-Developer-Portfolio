@@ -120,7 +120,7 @@ Key Features:
 
 ---
 
-[<img src="https://i.imgur.com/jDifNoN.jpg" alt="Instagram" width="30%">](https://i.imgur.com/cgx7P1e.mp4)
+[<img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="30%">](https://i.imgur.com/PrxD4UO.mp4)
 
 ***
 
