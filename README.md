@@ -119,9 +119,8 @@ Key Features:
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
 ---
-<div align="center">
-  [![Animated Button](https://i.imgur.com/jDifNoN.jpg)](https://i.imgur.com/cgx7P1e.mp4) 
-</div>
+
+[<img src="https://i.imgur.com/jDifNoN.jpg" alt="Instagram" width="30%">](https://i.imgur.com/cgx7P1e.mp4)
 
 ***
 
