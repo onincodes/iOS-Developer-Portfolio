@@ -110,15 +110,12 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 This SwiftUI animated button provides a visually appealing and interactive user interface element. It includes animation features for a smooth transition between different states, adding a dynamic touch to your app.
 
+This SwiftUI animated button is an open-source project. Feel free to use, modify, and distribute it in your applications.
+
 **Features:**
 - 🥳 Engaging animations: The button incorporates animations to enhance user experience without sacrificing responsiveness.
 - 🔄 Loading indicator: A built-in loading indicator provides visual feedback during asynchronous operations.
 - 🧑🏻‍💻 Customizable: Easily adapt the button's appearance to suit your app's design with customizable animation parameters.
-
-**Usage:**
-1. Import the `AnimatedButton` module into your SwiftUI project.
-2. Create an instance of `AnimatedButton` with desired configuration options.
-3. Add the button to your view hierarchy and handle actions through the provided closure.
 
 ### [💼 Animated Button Repo](https://github.com/Onin-iOS/AnimatedButton)
 
