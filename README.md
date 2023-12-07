@@ -8,6 +8,8 @@
 
 ## 🗺️ Shifter App - A Commuter's Friend
 
+Published Date: App Store: September 2, 2023
+
 This is a personal project of mine that made me fall in love with coding. It all started with an idea based on a real-life experience.
 
 As a typical employee in the Philippines, I often commute to work, and there have been times when I missed my stop on the way home because I fell asleep on the bus due to work fatigue. I know I'm not the only one facing this issue.
@@ -19,9 +21,6 @@ So I designed and built this app for my fellow commuters.
 * 📍 Easy to Use & Accurate ETAs: Get real-time updates on arrival times with just a few taps, so you, as a commuter, always know when to expect your destination. Plus, our app's ETA and alarm schedule adjust seamlessly with traffic conditions.
 
 * ⏰ Set a 5-Minute Alarm Before Your ETA: With Shifter App, it automatically sets a 5-minute alarm before your ETA, ensuring you never miss your destination again, even when traffic is unpredictable. Relax, read, or catch up on emails - we'll alert you in time!
-
-
-Published Date: App Store: September 2, 2023
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/app/id6462993220) 
 
@@ -48,6 +47,8 @@ Published Date: App Store: September 2, 2023
 
 ## 🕹️ XO App: For Tic-Tac-Toe Legends
 
+Published Date: App Store: October 17, 2023
+
 XO App is a fast-paced variation of the traditional Tic-Tac-Toe game, offering a thrilling twist on a classic pastime. 
 The challenge is to win as many rounds as possible against the computer within a 60-second time limit.
 
@@ -58,9 +59,6 @@ The challenge is to win as many rounds as possible against the computer within a
 * 😎 Enjoy seamless gameplay with an intuitive user interface.
 
 Can you win the race against the AI?
-
-
-Published Date: App Store: October 17, 2023
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/xo-for-tic-tac-toe-legends/id6469413774) 
 
@@ -84,6 +82,8 @@ Published Date: App Store: October 17, 2023
 
 ## 🍲 Ulamo App - Pinoy Ulam Generator
 
+Published Date: App Store: October 17, 2023
+
 Struggling to decide what to cook for the meal of the day? Introducing the Ulamo App, a Pinoy Ulam Generator born out of my own kitchen dilemmas. This app simplifies your daily meals with a spin-based solution, taking the guesswork out of your hands.
 
 **Key Features:**
@@ -91,9 +91,6 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 * 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
 * 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
 * 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
-
-
-Published Date: App Store: November 16, 2023
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
