@@ -20,7 +20,7 @@ So I designed and built this app for my fellow commuters.
 
 * ⏰ Set a 5-Minute Alarm Before Your ETA: With Shifter App, it automatically sets a 5-minute alarm before your ETA, ensuring you never miss your destination again, even when traffic is unpredictable. Relax, read, or catch up on emails - we'll alert you in time!
 
-### Published Date
+**Published Date**
 - App Store: September 2, 2023
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/app/id6462993220) 
@@ -59,7 +59,7 @@ The challenge is to win as many rounds as possible against the computer within a
 
 Can you win the race against the AI?
 
-### Published Date
+**Published Date**
 - App Store: October 17, 2023
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/xo-for-tic-tac-toe-legends/id6469413774) 
@@ -92,7 +92,7 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 * 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
 * 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
 
-### Published Date
+**Published Date**
 - App Store: November 16, 2023
 
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
