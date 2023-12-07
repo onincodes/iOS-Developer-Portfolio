@@ -8,6 +8,8 @@
 
 ## 🗺️ Shifter App - A Commuter's Friend
 
+App Store Published: September 2, 2023
+
 This is a personal project of mine that made me fall in love with coding. It all started with an idea based on a real-life experience.
 
 As a typical employee in the Philippines, I often commute to work, and there have been times when I missed my stop on the way home because I fell asleep on the bus due to work fatigue. I know I'm not the only one facing this issue.
@@ -45,6 +47,8 @@ So I designed and built this app for my fellow commuters.
 
 ## 🕹️ XO App: For Tic-Tac-Toe Legends
 
+App Store Published: October 17, 2023
+
 XO App is a fast-paced variation of the traditional Tic-Tac-Toe game, offering a thrilling twist on a classic pastime. 
 The challenge is to win as many rounds as possible against the computer within a 60-second time limit.
 
@@ -77,6 +81,8 @@ Can you win the race against the AI?
 ---
 
 ## 🍲 Ulamo App - Pinoy Ulam Generator
+
+App Store Published: November 16, 2023
 
 Struggling to decide what to cook for the meal of the day? Introducing the Ulamo App, a Pinoy Ulam Generator born out of my own kitchen dilemmas. This app simplifies your daily meals with a spin-based solution, taking the guesswork out of your hands.
 
@@ -132,5 +138,4 @@ This SwiftUI animated button is an open-source project. Feel free to use, modify
 ### Tech Used:
 
 * 🎨 SwiftUI
-* 📦 Swift Package Manager
 * 🏗️ MVVM (Model-View-ViewModel)
