@@ -103,3 +103,30 @@ Key Features:
 * 🗂️ Firebase
 * 📦 Swift Package Manager
 * 🏗️ MVVM (Model-View-ViewModel)
+
+---
+
+## 🔘 Animated Button
+
+This SwiftUI animated button provides a visually appealing and interactive user interface element. It includes animation features for a smooth transition between different states, adding a dynamic touch to your app.
+
+Key Features:
+
+* 🍽️ Random Ulam Generator: Get daily inspiration with a tap – discover a variety of delicious Filipino ulam recipes.
+* 🇵🇭 Celebrate Filipino Cuisine: Explore the rich and diverse world of Filipino food, promoting and preserving our culinary heritage.
+* 👨‍🍳 Cooking Made Easy: Access easy-to-follow recipes, making your cooking experience enjoyable and stress-free.
+
+[![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
+
+---
+<div align="center">
+  
+</div>
+
+***
+
+### Tech Used:
+
+* 🎨 SwiftUI
+* 📦 Swift Package Manager
+* 🏗️ MVVM (Model-View-ViewModel)
