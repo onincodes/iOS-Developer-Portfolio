@@ -130,6 +130,8 @@ This SwiftUI animated button is an open-source project. Feel free to use, modify
 <p align="center">
   <a href="https://i.imgur.com/PrxD4UO.mp4">
     <img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="30%">
+    <img src="https://i.imgur.com/mCnvgvC.jpg" alt="Animated Button" width="30%">
+    <img src="https://i.imgur.com/zmutuEh.jpg" alt="Animated Button" width="30%">
   </a>
 </p>
 
