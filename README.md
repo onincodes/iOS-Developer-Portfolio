@@ -112,6 +112,36 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 ---
 
+## 📋 Drag-and-Drop To-Do List Feature using CoreData
+
+This project showcases a sleek To-Do list app concept with a focus on drag-and-drop functionality. Built using SwiftUI and CoreData, this app is designed to demonstrate my proficiency in creating intuitive user interfaces and leveraging the CoreData framework for local data storage.
+
+This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to use, modify, and distribute it in your applications.
+
+**Features:**
+- 👆 Drag-and-Drop Interaction: Experience the simplicity of organizing tasks through an intuitive drag-and-drop interface.
+- 📀 CoreData Demo: Explore how CoreData facilitates persistent storage, allowing tasks to be saved and retrieved locally.
+- 🎨 SwiftUI Showcase: Witness the power of SwiftUI in crafting modern and responsive user interfaces.
+
+### [💼 Drag-and-Drop To-Do List Feature Repo](https://github.com/Onin-iOS/ToDoListFeature)
+
+---
+
+<p align="center">
+  <a href="https://i.imgur.com/PrxD4UO.mp4">
+    <img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="30%">
+    <img src="https://i.imgur.com/mCnvgvC.jpg" alt="Animated Button" width="30%">
+    <img src="https://i.imgur.com/zmutuEh.jpg" alt="Animated Button" width="30%">
+  </a>
+</p>
+
+***
+
+### Tech Used:
+
+* 🎨 SwiftUI
+* 🏗️ MVVM (Model-View-ViewModel)
+
 ## 🔘 Animated Button
 
 This SwiftUI animated button provides a visually appealing and interactive user interface element. It includes animation features for a smooth transition between different states, adding a dynamic touch to your app.
