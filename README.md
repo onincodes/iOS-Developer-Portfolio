@@ -140,6 +140,7 @@ This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to us
 ### Tech Used:
 
 * 🎨 SwiftUI
+* 📀 CoreData
 * 🏗️ MVVM (Model-View-ViewModel)
 
 ## 🔘 Animated Button
