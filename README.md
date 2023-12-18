@@ -129,9 +129,9 @@ This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to us
 
 <p align="center">
   <a href="https://i.imgur.com/2hCOzyW.mp4">
-    <img src="https://i.imgur.com/93n0svD.png" alt="Animated Button" width="30%">
-    <img src="https://i.imgur.com/S7CFYfj.png" alt="Animated Button" width="30%">
-    <img src="https://i.imgur.com/FQaqMxX.png" alt="Animated Button" width="30%">
+    <img src="https://i.imgur.com/93n0svD.png" alt="Animated Button" width="20%">
+    <img src="https://i.imgur.com/S7CFYfj.png" alt="Animated Button" width="20%">
+    <img src="https://i.imgur.com/FQaqMxX.png" alt="Animated Button" width="20%">
   </a>
 </p>
 
