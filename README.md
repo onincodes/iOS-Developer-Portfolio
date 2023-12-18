@@ -143,7 +143,7 @@ This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to us
 * 📀 CoreData
 * 🏗️ MVVM (Model-View-ViewModel)
 
-***
+---
 
 ## 🔘 Animated Button
 
