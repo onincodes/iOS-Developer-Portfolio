@@ -114,7 +114,7 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 ## 📋 Drag-and-Drop To-Do List Feature using CoreData
 
-This project showcases a sleek To-Do list app concept with a focus on drag-and-drop functionality. Built using SwiftUI and CoreData, this app is designed to demonstrate my proficiency in creating intuitive user interfaces and leveraging the CoreData framework for local data storage.
+This project showcases a sleek To-Do list app concept with a focus on drag-and-drop functionality. Built using SwiftUI and CoreData and following the MVVM (Model-View-ViewModel) architecture, this app is designed to demonstrate my proficiency in creating intuitive user interfaces and leveraging the CoreData framework for local data storage.
 
 This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to use, modify, and distribute it in your applications.
 
