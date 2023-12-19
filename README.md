@@ -26,9 +26,9 @@ So I designed and built this app for my fellow commuters.
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/H3OAQ6L.png" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/YFW9Mb6.png" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/io0Skfn.png" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/H3OAQ6L.png" alt="Commute Alarm" height="350">
+  <img src="https://i.imgur.com/YFW9Mb6.png" alt="Commute Alarm" height="350">
+  <img src="https://i.imgur.com/io0Skfn.png" alt="Commute Alarm" height="350">
 </div>
 
 ***
@@ -64,9 +64,9 @@ Can you win the race against the AI?
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/r9kyRoa.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/wt8a9ld.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/HdbjIwf.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/r9kyRoa.jpg" alt="Best tic-tac-toe" height="350">
+  <img src="https://i.imgur.com/wt8a9ld.jpg" alt="Best tic-tac-toe" height="350">
+  <img src="https://i.imgur.com/HdbjIwf.jpg" alt="Best tic-tac-toe" height="350">
 </div>
 
 ***
@@ -96,9 +96,9 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 ---
 <div align="center">
-  <img src="https://i.imgur.com/Be2YPrk.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/idSQCDe.jpg" alt="Alt Text" height="350">
-  <img src="https://i.imgur.com/JHhBBqG.jpg" alt="Alt Text" height="350">
+  <img src="https://i.imgur.com/Be2YPrk.jpg" alt="Ulam Picker" height="350">
+  <img src="https://i.imgur.com/idSQCDe.jpg" alt="Ulam Picker" height="350">
+  <img src="https://i.imgur.com/JHhBBqG.jpg" alt="Ulam Picker" height="350">
 </div>
 
 ***
@@ -129,9 +129,9 @@ This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to us
 
 <p align="center">
   <a href="https://i.imgur.com/sucHt4C.mp4">
-    <img src="https://i.imgur.com/CTnsdDG.png" alt="Animated Button" width="20%">
-    <img src="https://i.imgur.com/E3AI2CC.png" alt="Animated Button" width="20%">
-    <img src="https://i.imgur.com/IaXpQOa.png" alt="Animated Button" width="20%">
+    <img src="https://i.imgur.com/CTnsdDG.png" alt="To-do list app" height="450">
+    <img src="https://i.imgur.com/E3AI2CC.png" alt="To-do list app" height="450">
+    <img src="https://i.imgur.com/IaXpQOa.png" alt="To-do list app" height="450">
   </a>
 </p>
 
@@ -162,9 +162,9 @@ This SwiftUI animated button is an open-source project. Feel free to use, modify
 
 <p align="center">
   <a href="https://i.imgur.com/PrxD4UO.mp4">
-    <img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="30%">
-    <img src="https://i.imgur.com/mCnvgvC.jpg" alt="Animated Button" width="30%">
-    <img src="https://i.imgur.com/zmutuEh.jpg" alt="Animated Button" width="30%">
+    <img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="450">
+    <img src="https://i.imgur.com/mCnvgvC.jpg" alt="Animated Button" width="450">
+    <img src="https://i.imgur.com/zmutuEh.jpg" alt="Animated Button" width="450">
   </a>
 </p>
 
