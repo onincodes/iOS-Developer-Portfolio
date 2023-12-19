@@ -129,9 +129,9 @@ This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to us
 
 <p align="center">
   <a href="https://i.imgur.com/sucHt4C.mp4">
-    <img src="https://i.imgur.com/CTnsdDG.png" alt="To-do list app" height="430">
-    <img src="https://i.imgur.com/E3AI2CC.png" alt="To-do list app" height="430">
-    <img src="https://i.imgur.com/IaXpQOa.png" alt="To-do list app" height="430">
+    <img src="https://i.imgur.com/CTnsdDG.png" alt="To-do list app" height="440">
+    <img src="https://i.imgur.com/E3AI2CC.png" alt="To-do list app" height="440">
+    <img src="https://i.imgur.com/IaXpQOa.png" alt="To-do list app" height="440">
   </a>
 </p>
 
