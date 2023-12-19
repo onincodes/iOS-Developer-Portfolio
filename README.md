@@ -129,9 +129,9 @@ This Drag-and-Drop To-Do List Feature is an open-source project. Feel free to us
 
 <p align="center">
   <a href="https://i.imgur.com/sucHt4C.mp4">
-    <img src="https://i.imgur.com/CTnsdDG.png" alt="To-do list app" height="400">
-    <img src="https://i.imgur.com/E3AI2CC.png" alt="To-do list app" height="400">
-    <img src="https://i.imgur.com/IaXpQOa.png" alt="To-do list app" height="400">
+    <img src="https://i.imgur.com/CTnsdDG.png" alt="To-do list app" height="420">
+    <img src="https://i.imgur.com/E3AI2CC.png" alt="To-do list app" height="420">
+    <img src="https://i.imgur.com/IaXpQOa.png" alt="To-do list app" height="420">
   </a>
 </p>
 
@@ -162,9 +162,9 @@ This SwiftUI animated button is an open-source project. Feel free to use, modify
 
 <p align="center">
   <a href="https://i.imgur.com/PrxD4UO.mp4">
-    <img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="350">
-    <img src="https://i.imgur.com/mCnvgvC.jpg" alt="Animated Button" width="350">
-    <img src="https://i.imgur.com/zmutuEh.jpg" alt="Animated Button" width="350">
+    <img src="https://i.imgur.com/450sQ6R.jpg" alt="Animated Button" width="300">
+    <img src="https://i.imgur.com/mCnvgvC.jpg" alt="Animated Button" width="300">
+    <img src="https://i.imgur.com/zmutuEh.jpg" alt="Animated Button" width="300">
   </a>
 </p>
 
