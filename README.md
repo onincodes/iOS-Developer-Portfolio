@@ -22,7 +22,7 @@ So I designed and built this app for my fellow commuters.
 
 **App Store Published Date: September 2, 2023**
 
-**🚧 Currently unpublished as my Apple Developer Program account has not yet been renewed.**
+**🚧 Currently unavailable as my Apple Developer Program account is not yet renewed.**
 
 ---
 <div align="center">
@@ -62,7 +62,7 @@ Can you win the race against the AI?
 
 **App Store Published Date: October 17, 2023**
 
-**🚧 Currently unpublished as my Apple Developer Program account has not yet been renewed.**
+**🚧 Currently unavailable as my Apple Developer Program account is not yet renewed.**
 
 ---
 <div align="center">
@@ -96,7 +96,7 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 
 **App Store Published Date: November 16, 2023**
 
-**🚧 Currently unpublished as my Apple Developer Program account has not yet been renewed.**
+**🚧 Currently unavailable as my Apple Developer Program account is not yet renewed.**
 
 ---
 <div align="center">
