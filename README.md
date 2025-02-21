@@ -22,6 +22,8 @@ So I designed and built this app for my fellow commuters.
 
 **App Store Published Date: September 2, 2023**
 
+**🚧 Currently unpublished as my Apple Developer Program account has not yet been renewed.**
+
 ---
 <div align="center">
   <img src="https://i.imgur.com/H3OAQ6L.png" alt="Commute Alarm" height="350">
@@ -60,6 +62,8 @@ Can you win the race against the AI?
 
 **App Store Published Date: October 17, 2023**
 
+**🚧 Currently unpublished as my Apple Developer Program account has not yet been renewed.**
+
 ---
 <div align="center">
   <img src="https://i.imgur.com/r9kyRoa.jpg" alt="Best tic-tac-toe" height="350">
@@ -91,6 +95,8 @@ Struggling to decide what to cook for the meal of the day? Introducing the Ulamo
 [![App Store](https://i.imgur.com/99ZM87p.png)](https://apps.apple.com/us/app/ulamo-pinoy-ulam-generator/id6472172455) 
 
 **App Store Published Date: November 16, 2023**
+
+**🚧 Currently unpublished as my Apple Developer Program account has not yet been renewed.**
 
 ---
 <div align="center">
