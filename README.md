@@ -1,4 +1,4 @@
-<img src="https://imgur.com/rCfl63c" alt="Onin Sibua">
+<img src="[img]https://i.imgur.com/rCfl63c.png[/img]" alt="Onin Sibua">
 
 <div align="center"> A creative professional who has developed an interest in coding</div>
 
