@@ -1,8 +1,6 @@
 <img src="https://i.imgur.com/n4dM8qd.png" alt="Onin Sibua">
 
-<div align="center"> A creative professional who has developed an interest in coding, now a self-taught iOS developer with a strong emphasis on SwiftUI. </div>
-<div align="center"> </div>
-<div align="center"> I ♥️ SwiftUI </div>
+<div align="center"> A creative professional who has developed an interest in coding</div>
 
 ---
 
