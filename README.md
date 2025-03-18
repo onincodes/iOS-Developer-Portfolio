@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/rCfl63c.png" alt="Onin Sibua">
 
-<div align="center"> A creative professional who has developed an interest in coding</div>
+<div align="center">I’m a marketing professional with a creative background who discovered a passion for coding.</div>
 
 ---
 
